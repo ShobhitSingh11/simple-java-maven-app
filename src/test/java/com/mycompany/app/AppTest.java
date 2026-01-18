@@ -5,10 +5,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App.     
  */
 public class AppTest
 {
+    //Cool
     @Test
     public void testAppConstructor() {
         App app1 = new App();
